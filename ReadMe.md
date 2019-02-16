@@ -10,4 +10,5 @@ Gallery Plugin:- Lightbox
 Smooth Scrol :-JS-Smooth Scroll
 Features :- Responsive,html5/css3,Google Font,Bootstrap Framwork
 
+Technologies Used :- html ,js,jquery,css,python,bootstrap,php,mysql
 
